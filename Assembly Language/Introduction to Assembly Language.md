@@ -20,5 +20,5 @@ We will be focusing on x86 assembly language in this guide, but the concepts and
 ### Back to this topics Table of Contents
 - [Assembly](Table%20of%20Contents.md)
 ### Back to the Reverse Engineering Guide's Table of Contents
-- [Reverse Engineering](../Readme.md)
+- [Reverse Engineering](../README.md)
 

@@ -11,7 +11,7 @@ Special-purpose registers are used for specific purposes, such as storing the pr
 Memory is used to store data and instructions that the processor can access. There are different types of memory, including volatile (such as RAM) and non-volatile (such as ROM).
 Volatile memory, such as RAM, is temporary storage that is lost when the power is turned off. It is used to store data and instructions that the processor is currently working on.
 Non-volatile memory, such as ROM, is permanent storage that is retained even when the power is turned off. It is used to store the BIOS (basic input/output system) and other programs that are required to boot the computer.
-Memory is organized into cells, each of which can store a single value. The processor accesses memory by specifying the address of the cell that it wants to read or write.
+Memory is organized into cells, each of which can store a single value. The processor accesses memory by specifying the address of the cell that it wants to read or write to.
 
 ## Addressing Modes
 There are different ways that the processor can specify a memory address. Some common addressing modes are:

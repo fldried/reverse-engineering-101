@@ -17,7 +17,7 @@ Ghidra is a free, open-source disassembler that is developed by the NSA. While s
 ### Radare2
 Radare2 is a rewrite of radare. It is a free, open-source disassembler that is available for Windows, Linux, and macOS. Radare2 uses the iaito GUI by default, which is a Qt-based continuation of Cutter. R2 also supports plugins and scripting using the r2pipe API.
 ### Binary Ninja
-Binary Ninja is another free, open-source disassembler supporting python scripting and plugins. What makes Binary Ninja so special, is it's cloud-based analysis. This allows you to analyze binaries on the cloud, and then download the results to your local machine.
+Binary Ninja is another free, disassembler supporting python scripting and plugins. What makes Binary Ninja so special, is it's cloud-based analysis. This allows you to analyze binaries on the cloud, and then download the results to your local machine.
 ### OllyDbg
 OllyDbg has been around for a long time, and is still used by many people. Unlike many other disassemblers, OllyDbg focusses primarily on dynamic analysis. OllyDbg is no longer being maintained. I decided to include it here, solely because some very popular Reverse Engineering courses still use it. (I'm looking at you, begin.re)
 ### x64dbg

@@ -14,8 +14,6 @@ Welcome to the reverse engineering guide! In this guide, you will learn about th
 - [x] Disassemblers
 - [x] Debuggers
 - [x] Operating Systems
-- [ ] Process Management
-- [ ] Memory Management
 - [ ] Binary Analysis
 - [ ] Software Vulnerabilities
 - [ ] Exploit Development

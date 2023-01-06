@@ -14,4 +14,8 @@ Debuggers provide a number of commands and options that allow a developer to con
 ## Debugger Extensions and Plugins
 Debuggers often provide a way to extend their functionality with plugins and extensions. These extensions can provide additional features or tools that are not part of the core debugger.
 
-### Links
+## Links
+### Back to this topic's index
+- [Debuggers](./Table%20of%20Contents.md)
+### Back to the Reverse Engineering Guide's Table of Contents
+- [Reverse Engineering](../README.md)

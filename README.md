@@ -7,12 +7,13 @@ Welcome to the reverse engineering guide! In this guide, you will learn about th
 - [File Formats](File%20Formats/Table%20of%20Contents.md)
 - [Disassemblers](Disassemblers/Table%20of%20Contents.md)
 - [Debuggers](Debuggers/Table%20of%20Contents.md)
+- [Operating Systems](Operating%20Systems/Table%20of%20Contents.md)
 
 ## To Do:
 - [x] File Formats
 - [x] Disassemblers
 - [x] Debuggers
-- [ ] Operating Systems
+- [x] Operating Systems
 - [ ] Process Management
 - [ ] Memory Management
 - [ ] Binary Analysis

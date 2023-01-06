@@ -10,7 +10,7 @@ Welcome to the reverse engineering guide! In this guide, you will learn about th
 ## To Do:
 - [x] File Formats
 - [x] Disassemblers
-- [ ] Debuggers
+- [x] Debuggers
 - [ ] Operating Systems
 - [ ] Process Management
 - [ ] Memory Management

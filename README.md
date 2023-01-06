@@ -6,6 +6,7 @@ Welcome to the reverse engineering guide! In this guide, you will learn about th
 - [Assembly Language](Assembly%20Language/Table%20of%20Contents.md)
 - [File Formats](File%20Formats/Table%20of%20Contents.md)
 - [Disassemblers](Disassemblers/Table%20of%20Contents.md)
+- [Debuggers](Debuggers/Table%20of%20Contents.md)
 
 ## To Do:
 - [x] File Formats

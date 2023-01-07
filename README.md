@@ -9,6 +9,7 @@ Welcome to the reverse engineering guide! In this guide, you will learn about th
 - [Debuggers](Debuggers/Table%20of%20Contents.md)
 - [Operating Systems](Operating%20Systems/Table%20of%20Contents.md)
 - [Binary Analysis](Binary%20Analysis/Table%20of%20Contents.md)
+- [Software Vulnerabilities](Software%20Vulnerabilities/Table%20of%20Contents.md)
 
 ## To Do:
 - [x] File Formats
@@ -16,7 +17,7 @@ Welcome to the reverse engineering guide! In this guide, you will learn about th
 - [x] Debuggers
 - [x] Operating Systems
 - [x] Binary Analysis
-- [ ] Software Vulnerabilities
+- [x] Software Vulnerabilities
 - [ ] Exploit Development
 - [ ] excursion: Cryptography
 - [ ] Reverse Engineering Techniques

@@ -10,15 +10,10 @@ Welcome to the reverse engineering guide! In this guide, you will learn about th
 - [Operating Systems](Operating%20Systems/Table%20of%20Contents.md)
 - [Binary Analysis](Binary%20Analysis/Table%20of%20Contents.md)
 - [Software Vulnerabilities](Software%20Vulnerabilities/Table%20of%20Contents.md)
+- [Exploit Development](Exploit%20Development/Table%20of%20Contents.md)
 
 ## To Do:
-- [x] File Formats
-- [x] Disassemblers
-- [x] Debuggers
-- [x] Operating Systems
-- [x] Binary Analysis
-- [x] Software Vulnerabilities
-- [ ] Exploit Development
 - [ ] excursion: Cryptography
 - [ ] Reverse Engineering Techniques
-- [ ] Tools
+- [ ] Practicing Reverse Engineering
+- [ ] x64 Assembly Language
